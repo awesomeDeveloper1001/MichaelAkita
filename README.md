@@ -14,3 +14,6 @@ I have specialized in
 - Blockchains: Ethereum (Solidity, Web3, Truffle, ERC20, ICO), Tron (TRX, TRC10, TRC20 Dapps), Binance Chain
 - Databases: MongoDB, Redis, PostgreSQL, MySQL
 
+Phone No : +1 847 603 4713
+Skype : live:.cid.e6b01849ae211a4c
+Email : michaelakita1001@gmail.com
